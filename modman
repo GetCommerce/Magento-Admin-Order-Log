@@ -1,0 +1,3 @@
+app/code/community/Getsquare/AdminOrderName         app/code/community/Getsquare/AdminOrderName
+app/adminhtml/layout/getsquare_adminordername.xml   app/design/adminhtml/default/default/layout/getsquare_adminordername.xml
+app/etc/modules/Getsquare_AdminOrderName.xml        app/etc/modules/Getsquare_AdminOrderName.xml
