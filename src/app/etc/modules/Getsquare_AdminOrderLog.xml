@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Getsquare_AdminOrderName>
+        <Getsquare_AdminOrderLog>
             <active>true</active>
             <codePool>community</codePool>
-        </Getsquare_AdminOrderName>
+        </Getsquare_AdminOrderLog>
     </modules>
 </config>

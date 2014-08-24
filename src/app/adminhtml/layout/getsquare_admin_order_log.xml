@@ -8,6 +8,7 @@
                     <header>Order Placed By</header>
                     <index>placed_by_user</index>
                     <type>text</type>
+					<filter_index>sales_order_placed_by.placed_by_user</filter_index>
                 </arguments>
                 <after>created_at</after>
             </action>
